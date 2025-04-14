@@ -25,6 +25,7 @@ body {
   margin-left: 20px;
   margin-bottom: 20px;
   background-color:  rgba(227, 235, 233, 0.8);
+  border: 5px solid rgba(42, 94, 150, 0.5);
 }
 
 .kepkeret img {
@@ -53,4 +54,9 @@ p {
 
 .kiemelt {
   font-style: italic;
+}
+
+h3 {
+  font-style: italic;
+  text-indent: 10px;
 }
